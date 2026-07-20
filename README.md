@@ -1,31 +1,46 @@
-# Rock Paper Scissors Game
+# 🎮 Rock Paper Scissors Game
 
-A C++ console-based Rock Paper Scissors game that allows users to play against the computer.
+A C++ console-based Rock Paper Scissors game where the player competes against the computer. The game includes score tracking and stores match history using file handling.
 
-## Features
-- Play Rock, Paper, Scissors
-- Random computer moves
+## 📌 Features
+- Play against the computer
+- Random computer choices
 - Score tracking
 - Match history saved in `history.txt`
-- Console-based interface
+- Simple and user-friendly console interface
 
-## Technologies Used
+## 🛠️ Technologies Used
 - C++
 - File Handling
-- Standard Template Library (STL)
+- Standard Library (`iostream`, `fstream`, `ctime`, etc.)
 
-## How to Run
+## 📂 Project Files
+- `main.cpp` – Source code
+- `history.txt` – Stores match history
+- `game.exe` – Compiled executable
 
-1. Compile the program:
-   ```bash
-   g++ main.cpp -o game
-   ```
+## ▶️ How to Run
 
-2. Run:
-   ```bash
-   ./game
-   ```
+Compile:
 
-## Author
+```bash
+g++ main.cpp -o game
+```
+
+Run:
+
+```bash
+./game
+```
+
+(On Windows)
+
+```bash
+game.exe
+```
+
+## 👨‍💻 Author
 
 **Sathish Kumar**
+
+GitHub: https://github.com/sathishkumar713
