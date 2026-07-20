@@ -1,0 +1,15 @@
+Match 1
+Player   : Scissors
+Computer : Scissors
+Result   : It's a Draw!
+--------------------------
+Match 2
+Player   : Rock
+Computer : Scissors
+Result   : You Win!
+--------------------------
+Match 3
+Player   : Paper
+Computer : Scissors
+Result   : Computer Wins!
+--------------------------
